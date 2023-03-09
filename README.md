@@ -12,5 +12,10 @@ The Website is hosted on a S3 Bucket (Might be disabled in the future)
 ## Link to AWS Lambda Functions Google Slides
 [Click Here to Access Google Slides](https://docs.google.com/presentation/d/1DeL5ct7P-Sga6sZLznI1WI3xdbVKKwEKi5N6LZ7jX-c/edit?usp=sharing)
 
+## Links to Lucidcharts
+###### [Yoel's Tableau](https://public.tableau.com/app/profile/temp.temp.temp/viz/Capstone-Jump-Cars-Auction/Sheet3#1)
+###### [John's Tableau](https://public.tableau.com/app/profile/boy1920/viz/CarSales_16782167769610/Sheet3#1)
+###### [Meet's Tableau](https://public.tableau.com/app/profile/meet7348/viz/Car_Auction/Dashboard1?publish=yes)
+
 ## Trello Board
 ![image](Capture.PNG)
