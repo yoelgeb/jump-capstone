@@ -4,7 +4,8 @@
 Used AWS: Lambda Functions, S3 buckets, Cloud9, and MySQL RDS
 
 ## Link to the Website
+###### Used to Create CSV Files that you can upload to the RDS
 The Website is hosted on a S3 Bucket (Might be disabled in the future)
 
-[Click Here to Acess it](http://car-auction-listing-website.s3-website-us-west-2.amazonaws.com)
+[Click Here to Access it](http://car-auction-listing-website.s3-website-us-west-2.amazonaws.com)
 
