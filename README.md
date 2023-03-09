@@ -1,5 +1,6 @@
 # Capstone Project for Yoel, Meet, and John
 3/6/2023 - 3/9/2023
+Used AWS: Lambda Functions, S3 buckets, Cloud9, and MySQL RDS
 
 ## Link to the Website
 The Website is hosted on a S3 Bucket (Might be disabled in the future)
