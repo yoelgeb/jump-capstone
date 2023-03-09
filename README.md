@@ -11,3 +11,6 @@ The Website is hosted on a S3 Bucket (Might be disabled in the future)
 
 ## Link to AWS Lambda Functions Google Slides
 [Click Here to Access Google Slides](https://docs.google.com/presentation/d/1DeL5ct7P-Sga6sZLznI1WI3xdbVKKwEKi5N6LZ7jX-c/edit?usp=sharing)
+
+## Trello Board
+![image](Capture.PNG)
